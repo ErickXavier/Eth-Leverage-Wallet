@@ -41,7 +41,7 @@ jupyterlab-pygments==0.1.2
 jupyterlab-server==2.3.0
 lru-dict==1.1.7
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 multiaddr==0.0.9
 nbclassic==0.2.6
 nbclient==0.5.3
